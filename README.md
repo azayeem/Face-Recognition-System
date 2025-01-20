@@ -64,6 +64,6 @@ Feel free to report issues or suggest features by creating a GitHub issue. Contr
 
 ---
 
-## 🏆 Credits
+## 🏆 Tech Stack
 - **Face Recognition**: LBPHFaceRecognizer (OpenCV)
 - **Frameworks**: OpenCV, Pandas, NumPy
